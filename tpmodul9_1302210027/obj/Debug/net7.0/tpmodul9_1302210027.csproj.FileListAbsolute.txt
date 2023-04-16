@@ -31,3 +31,4 @@ E:\College\semester 4\KPL\MOD 9\tpmodul9_1302210027\tpmodul9_1302210027\obj\Debu
 E:\College\semester 4\KPL\MOD 9\tpmodul9_1302210027\tpmodul9_1302210027\obj\Debug\net7.0\tpmodul9_1302210027.pdb
 E:\College\semester 4\KPL\MOD 9\tpmodul9_1302210027\tpmodul9_1302210027\obj\Debug\net7.0\tpmodul9_1302210027.genruntimeconfig.cache
 E:\College\semester 4\KPL\MOD 9\tpmodul9_1302210027\tpmodul9_1302210027\obj\Debug\net7.0\ref\tpmodul9_1302210027.dll
+E:\College\semester 4\KPL\MOD 9\tpmodul9_1302210027\tpmodul9_1302210027\bin\Debug\net7.0\Newtonsoft.Json.dll
